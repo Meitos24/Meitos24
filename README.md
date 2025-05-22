@@ -23,7 +23,3 @@ I'm continuously improving my skills, working on personal projects, and explorin
 ## 🔥 Streak Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Meitos24&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-## 🏆 Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Meitos24&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
