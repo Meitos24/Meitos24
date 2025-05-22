@@ -1,16 +1,17 @@
-## Hi there 👋
+# 💻 Hey there, I'm Guillermo Campos!
 
-<!--
-**Meitos24/Meitos24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer Science student passionate about building web applications and learning modern technologies.
 
-Here are some ideas to get you started:
+## 🚀 What I'm Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 **Web Development**: Frontend and backend fundamentals  
+- ⚛️ **React** and **Next.js**: Building fast and dynamic user interfaces  
+- 🐍 **Python** and **Django**: Server-side logic and API development  
+- 💻 **JavaScript**, **HTML**, and **CSS**: Core web technologies
+
+## 📚 Always Learning
+
+I'm continuously improving my skills, working on personal projects, and exploring frameworks, libraries, and best practices to become a full-stack developer.
+
+## 📈 GitHub Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Meitos24&theme=microsoft-dark&hide_border=true)](https://git.io/streak-stats)
