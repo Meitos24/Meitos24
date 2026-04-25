@@ -1,5 +1,5 @@
 # About Me:
-🔭 I’m currently working on<br>Building full-stack applications using Go, Vue.js, and MySQL, focusing on RESTful APIs, task management systems, and scalable backend architectures.<br>👯 I’m looking to collaborate on<br>Projects related to web development, API design, and backend systems, especially those involving Go, Vue, or modern JavaScript frameworks.<br>🤝 I’m looking for help with<br>Improving my skills in system design, performance optimization, and scalable architectures, as well as best practices in clean code and software architecture.<br>🌱 I’m currently learning<br>Deepening my knowledge in Go (Golang), backend development, and software architecture, along with exploring machine learning fundamentals in Python.<br>
+🔭 I’m currently working on building full-stack applications using Go, Vue.js, and MySQL, focusing on RESTful APIs, task management systems, and scalable backend architectures.<br><br>👯 I’m looking to collaborate on projects related to web development, API design, and backend systems, especially those involving Go, Vue, or modern JavaScript frameworks.<br><br>🌱 I’m currently learning deepening my knowledge in Go (Golang), backend development, and software architecture, along with exploring machine learning fundamentals in Python.<br>
 
 
 ## 🌐 Socials:
